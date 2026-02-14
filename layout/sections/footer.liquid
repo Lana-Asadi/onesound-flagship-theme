@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div class="footer-inner">
+    <p>&copy; {{ 'now' | date: '%Y' }} {{ shop.name }}</p>
+  </div>
+</footer>
+
+{% schema %}
+{
+  "name": "Footer",
+  "presets": [{ "name": "Footer" }]
+}
+{% endschema %}
