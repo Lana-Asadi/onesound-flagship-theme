@@ -1,0 +1,22 @@
+/layout
+  theme.liquid
+
+/templates
+  index.json
+  product.json
+  collection.json
+
+/sections
+  hero-video.liquid
+  featured-products.liquid
+  product-main.liquid
+  collection-main.liquid
+  rich-text.liquid
+  footer.liquid
+
+/snippets
+  header.liquid
+
+/assets
+  base.css
+  theme.js
